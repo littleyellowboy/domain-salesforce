@@ -9,4 +9,4 @@ How to add a new domain image page :
 - (4 - Optional) You can check that the build is OK in the Heroku Dashboard, this is automatic and should not be mandatory. However, if you change the files too fast, you may need to Deploy the app manually (Dashboard (Link) > Deploy (Tab) > Deploy Branch (button))
 - (5) See your changes :  https://domain-salesforce.herokuapp.com/example123
 
-[https://dashboard.heroku.com/apps/domain-salesforce/deploy/github](test)
+[Test](https://dashboard.heroku.com/apps/domain-salesforce/deploy/github)
