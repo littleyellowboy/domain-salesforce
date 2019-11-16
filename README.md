@@ -1,8 +1,8 @@
 MyDomain-Sample
 ====================
 
-Open Heroku dashboard : https://dashboard.heroku.com/apps/domain-salesforce
-Open App : https://domain-salesforce.herokuapp.com/
+- Open Heroku dashboard : https://dashboard.heroku.com/apps/domain-salesforce
+- Open App : https://domain-salesforce.herokuapp.com/
 
 A simple example to brand your Salesforce My Domain
 
