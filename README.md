@@ -4,6 +4,8 @@ Simple domain Salesforce
 This is a simple PHP app that deploys a responsive image used in login page for salesforce.
 This is a duplicate from the project : https://github.com/salesforceidentity/MyDomain-Sample
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/littleyellowboy/domain-salesforce)
+
 Useful links
 ============
 
