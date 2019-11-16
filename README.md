@@ -1,3 +1,5 @@
+This is a simple PHP app that deploys a responsive image used in login page for salesforce.
+
 - Open Heroku dashboard : https://dashboard.heroku.com/apps/domain-salesforce
 - Open App : https://domain-salesforce.herokuapp.com/lustral (lustral or any directory in GitHub repertory)
 
