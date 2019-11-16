@@ -2,7 +2,7 @@ MyDomain-Sample
 ====================
 
 - Open Heroku dashboard : https://dashboard.heroku.com/apps/domain-salesforce
-- Open App : https://domain-salesforce.herokuapp.com/
+- Open App : https://domain-salesforce.herokuapp.com/lustral (lustral or any directory in GitHub repertory)
 
 A simple example to brand your Salesforce My Domain
 
