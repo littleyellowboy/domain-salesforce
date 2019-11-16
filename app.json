@@ -2,6 +2,9 @@
   "name": "Domain Salesforce",
   "description": "Domain Salesforce",
   "repository": "https://github.com/littleyellowboy/domain-salesforce",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": []
+  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
+  "keywords": [],
+    "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
+  }
 }
